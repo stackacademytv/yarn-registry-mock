@@ -1,0 +1,16 @@
+{
+  "name": "yarn-registry-mock",
+  "version": "1.0.0",
+  "description": "Mock NPM registry using npm-registry-mock",
+  "main": "index.js",
+  "author": "Ray Viljoen <ray@stackacademy.tv>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "i": "^0.3.6",
+    "npm": "^5.6.0",
+    "npm-registry-mock": "1.1.0"
+  }
+}

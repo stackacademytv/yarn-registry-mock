@@ -2,7 +2,7 @@
 
 ---
 
-A simple registry mock using [npm-registry-mock](https://github.com/npm/npm-registry-mock), but implemented for yarn.
+A simple [Yarn](https://yarnpkg.com) registry mock [npm-registry-mock](https://github.com/npm/npm-registry-mock).
 
 *Automatically sets the yarn registry to the mocked server when started and resets when killed.*
 

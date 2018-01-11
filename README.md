@@ -21,7 +21,7 @@ A simple [Yarn](https://yarnpkg.com) registry mock [npm-registry-mock](https://g
 
 3. Kill the mock server and reset the yarn registry
 
-`cmd/ctrl+c`
+`ctrl+c`
 
 ---
 
